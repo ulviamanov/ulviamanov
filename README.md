@@ -12,7 +12,7 @@
 
 [![website](https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png)](https://linkedin.com/in/ulviamanov#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.m.wikipedia.org%2Fwiki%2FDatei%3AXING_Logo.svg&psig=AOvVaw3EToYkc3eU-72P5gFLmDB5&ust=1707359937980000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDz28aZmIQDFQAAAAAdAAAAABAS)](https://xing.com/profile/Ulvi_Amanov2/cv#gh-light-mode-only)
+[![website](https://upload.wikimedia.org/wikipedia/commons/8/8c/XING_Logo.svg)](https://xing.com/profile/Ulvi_Amanov2/cv#gh-light-mode-only)
 
 <br />
 <br />
