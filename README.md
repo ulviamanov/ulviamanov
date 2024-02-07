@@ -11,10 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/ulviamanov/)
-[<img align="left" alt="Xing" width="26px" src="https://www.iconpacks.net/free-icon/xing-logo-2447.html" />](https://www.xing.com/profile/Ulvi_Amanov2)
-
-
-
+[<img align="left" alt="Xing" width="26px" src="https://commons.wikimedia.org/wiki/File:Xing_Logo_07.2021.svg" />](https://www.xing.com/profile/Ulvi_Amanov2)
 
 
 
@@ -42,9 +39,12 @@
 <img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" />
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 <img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
 <img align="left" alt="GitLab" width="26px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />
-<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Linux" width="26px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+<img align="left" alt="Postman" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
 
 <br />
 <br />
