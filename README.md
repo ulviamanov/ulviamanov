@@ -11,10 +11,8 @@
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/ulviamanov#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ulviamanov#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/xing-light.svg)](https://xing.com/profile/Ulvi_Amanov2/cv#gh-light-mode-only)
-[![website](./img/xing-dark.svg)](https://xing.com/profile/Ulvi_Amanov2/cv#gh-dark-mode-only)
 
 <br />
 <br />
