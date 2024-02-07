@@ -11,7 +11,9 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/ulviamanov/)
-[<img align="left" alt="Xing" width="26px" src="https://commons.wikimedia.org/wiki/File:Xing_Logo_07.2021.svg" />](https://www.xing.com/profile/Ulvi_Amanov2)
+[<img align="left" alt="Xing" width="26px" src="https://logosandtypes.com/wp-content/uploads/2020/08/xing.svg" />](https://www.xing.com/profile/Ulvi_Amanov2)
+
+
 
 
 
