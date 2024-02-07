@@ -10,11 +10,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="26px" src="./img/linkedin-light.svg" />](https://www.linkedin.com/in/ulviamanov/)
-[<img align="left" alt="XING" width="26px" src="./img/xing-light.svg" />](https://www.xing.com/profile/Ulvi_Amanov2/cv)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ulviamanov#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ulviamanov#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/xing-light.svg)](https://xing.com/profile/Ulvi_Amanov2/cv#gh-light-mode-only)
+[![website](./img/xing-dark.svg)](https://xing.com/profile/Ulvi_Amanov2/cv#gh-dark-mode-only)
 
 <br />
 <br />
+
 
 ### Languages and Tools:
 
