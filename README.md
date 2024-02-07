@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ulviamanov#gh-light-mode-only)
+[![website](https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png)](https://linkedin.com/in/ulviamanov#gh-light-mode-only)
 &nbsp;&nbsp;
 [![website](./img/xing-light.svg)](https://xing.com/profile/Ulvi_Amanov2/cv#gh-light-mode-only)
 
