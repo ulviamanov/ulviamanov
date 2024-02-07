@@ -10,11 +10,10 @@
 
 ### Connect with me:
 
-[![website](https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png)](https://linkedin.com/in/ulviamanov#gh-light-mode-only)
+[![website](<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />)](https://linkedin.com/in/ulviamanov#gh-light-mode-only)
 &nbsp;&nbsp;
 [![website](https://upload.wikimedia.org/wikipedia/commons/8/8c/XING_Logo.svg)](https://xing.com/profile/Ulvi_Amanov2/cv#gh-light-mode-only)
 
-<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> (https://linkedin.com/in/ulviamanov#gh-light-mode-only)
 
 <br />
 <br />
