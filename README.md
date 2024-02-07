@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="26px" src="./img/linkedin.svg" />](https://www.linkedin.com/in/ulviamanov/)
+[<img align="left" alt="LinkedIn" width="26px" src="./img/linkedin-light.svg" />](https://www.linkedin.com/in/ulviamanov/)
 [<img align="left" alt="XING" width="26px" src="./img/xing.svg" />](https://www.xing.com/profile/Ulvi_Amanov2/cv)
 
 <br />
